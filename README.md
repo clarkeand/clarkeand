@@ -2,7 +2,7 @@
 
 > Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/clarkeanderson95/) | [GitHub](https://github.com/clarkeand)
+📥[LinkedIn](https://www.linkedin.com/in/clarkeanderson95/) | 💻[GitHub](https://github.com/clarkeand)
 
 ---
 
@@ -22,7 +22,7 @@
 
 **Hackbright Academy** | Lehi, UT
 
-Project: [Pokéhoops](https://github.com/clarkeand/PokeHoops) | [poke-hoops.com](poke-hoops.com)
+Project: 🏀[Pokéhoops](https://github.com/clarkeand/PokeHoops) | [poke-hoops.com](poke-hoops.com)
 
 Pokéhoops is a captivating Flask web application that combines the world of NBA basketball with the excitement of Pokémon. By leveraging NBA player stats, it generates a personalized statistic score for every active NBA player based on the P.O.K.E.D. framework (Power, Offense, Kinetics, Endurance, Defense). This unique crossover project brings together the thrill of sports analytics and the nostalgia of Pokémon, resulting in an engaging and innovative user experience.
 
@@ -32,13 +32,13 @@ Pokéhoops is a captivating Flask web application that combines the world of NBA
 
 **Customer Service Team Lead**
 
-Kizik | Lindon, UT
+Kizik | Lindon, UT 👟
 
 (August 2021 - Present)
 
 **Customer Service Manager**
 
-The Hut Group | Lindon, UT
+The Hut Group | Lindon, UT 💪
 
 (September 2019 - August 2021)
 
@@ -46,13 +46,13 @@ The Hut Group | Lindon, UT
 
 ## Education & Training
 
-**Hackbright Academy**, San Francisco, CA
+**Hackbright Academy**, San Francisco, CA 🖥️
 
 (July 2023)
 
 Software Engineering Fellowship - Accelerated, 12-week software engineering program.
 
-**Utah Valley University**, Orem UT
+**Utah Valley University**, Orem UT 🤓
 
 (September 2021 - Spring 2025)
 
@@ -62,5 +62,5 @@ Software Engineering Fellowship - Accelerated, 12-week software engineering prog
 
 ## Activities/Interests
 
-I am a very avid basketball fan! I enjoy music, hanging out with my family, and playing video and TTRPG games. 
+I am a very avid basketball fan! I enjoy music, hanging out with my family, and playing video and TTRPG games. 👾
 
