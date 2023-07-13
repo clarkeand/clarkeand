@@ -2,9 +2,7 @@
 
 Software Engineer ⌨️
 
-Hello! My name is Clarke Anderson, a passionate software engineer currently enrolled in the software engineering program at Hack Bright Academy. With a focus on full-stack web development and computer science fundamentals, I am expanding my programming skills and knowledge to further my career in the technology field.
-
-During my time at Hack Bright Academy, I have acquired expertise in languages like Python 🐍, JavaScript📕, HTML🕸️, and CSS🎨, and gained hands-on experience with frameworks such as Flask and React. I am equipped with a solid understanding of data structures, algorithms, and relational databases, enabling me to design robust and scalable solutions.
+Hello! My name is Clarke Anderson, a passionate software engineer currently enrolled in the software engineering program at Hack Bright Academy. With a focus on full-stack web development and computer science fundamentals, I am expanding my programming skills and knowledge to further my career in the technology field. During my time at Hack Bright Academy, I have acquired expertise in languages like Python 🐍, JavaScript📕, HTML🕸️, and CSS🎨, and gained hands-on experience with frameworks such as Flask and React. I am equipped with a solid understanding of data structures, algorithms, and relational databases, enabling me to design robust and scalable solutions.
 
 📥[LinkedIn](https://www.linkedin.com/in/clarkeanderson95/) | 💻[GitHub](https://github.com/clarkeand)
 
