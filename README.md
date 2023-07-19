@@ -64,5 +64,5 @@ Software Engineering Fellowship - Accelerated, 12-week software engineering prog
 
 ## Activities/Interests
 
-I am a very avid basketball fan! I enjoy music, hanging out with my family, and playing video and TTRPG games. 👾
+I am a very avid basketball fan! I enjoy music, hanging out with my family and dog, and playing video and TTRPG games. 👾
 
