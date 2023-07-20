@@ -10,7 +10,7 @@ Hello! My name is Clarke Anderson, a passionate software engineer currently enro
 
 ## Technologies
 
-**Languages** | Python, JavaScript (AJAX, JSON), HTML, CSS, SQL
+**Languages** | Python, JavaScript (AJAX, JSON), C++, Java, HTML, CSS, SQL
 
 **Frameworks & Libraries** | Flask, jQuery, Bootstrap, Jinja, ReactJS
 
