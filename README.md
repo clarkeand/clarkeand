@@ -32,11 +32,17 @@ Pokéhoops is a captivating Flask web application that combines the world of NBA
 
 ## Work Experience
 
+**Software Engineer**
+
+Gameplay | Remote | Spanish Fork, UT 🎮
+
+(August 2023 - Ongoing)
+
 **Customer Service Team Lead**
 
 Kizik | Lindon, UT 👟
 
-(August 2021 - Present)
+(August 2021 - August 2023)
 
 **Customer Service Manager**
 
@@ -56,9 +62,9 @@ Software Engineering Fellowship - Accelerated, 12-week software engineering prog
 
 **Utah Valley University**, Orem UT 🤓
 
-(September 2021 - Spring 2025)
+(September 2021 - Spring 2023)
 
-- Bachelor of Science, Computer Science.
+- 
 
 ---
 
